@@ -1,2 +1,2 @@
-# ali-projeect
- html.css.js
+# clock digital
+ use :html,css,java script
